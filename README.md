@@ -1,1 +1,1 @@
-git-practiceThis is a Git practice repository.
+This is a Git practice repository.
